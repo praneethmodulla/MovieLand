@@ -1,5 +1,4 @@
-#MovieLand
-React based Application to display list of Movies.
+MovieLand is a React based Application to display list of Movies.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
